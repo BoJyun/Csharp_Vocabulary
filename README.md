@@ -8,3 +8,4 @@
 5. 建立Add鈕，顯示新視窗讓使用者輸入新的英文單子，下次便可隨亂數隨機出現
 
 ![Vocabulary](./Vocabulary.gif)
+![Image](https://github.com/BoJyun/Csharp_Vocabulary/blob/master/Vocabulary.PNG)
